@@ -6,6 +6,7 @@ A sleek, interactive seat booking interface built with **Vanilla JavaScript**, d
 
 # Live Demo:
 
+https://akhil9982.github.io/seat_Booking_App/
 
 ## 🚀 Key Features
 - **Dynamic Selection:** Interactive seat layout where users can select/deselect seats.
